@@ -1,8 +1,3 @@
-/*
- ΚΖΕΣΝΙΑΚ ΜΑΓΚΝΤΑΛΕΝΑ - ΙΖΑΜΠΕΛΑ
- ΑΜ : 161044 , ΤΜΗΜΑ : ΣΤ5
-*/
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
