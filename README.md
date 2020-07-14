@@ -1,7 +1,7 @@
 # SocketRPCServer
 A simple Socket-RPC Server for some simple maths : 
 
-- calculating of an integer array
+- calculating the average of an integer array
 - finding the minimum and the maximum value in an integer array
 - creating a float array with the same length as the original one with each element multiplied by a float number a
 
